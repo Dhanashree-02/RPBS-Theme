@@ -1,0 +1,8 @@
+CREATE TABLE ContactForm (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(50) NOT NULL,
+    Surname VARCHAR(50) NOT NULL,
+    Email VARCHAR(100) NOT NULL,
+    Message TEXT,
+    CONSTRAINT chk_email CHECK (Email LIKE '%@%')
+);
