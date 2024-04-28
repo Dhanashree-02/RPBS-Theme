@@ -166,6 +166,7 @@ aside,
 footer,
 hgroup {
     display: block;
+    z-index: 999;
 }
 
 * {
@@ -347,7 +348,7 @@ header
     top: 0px;
     left: 0px;
     right: 0px;
-    z-index: 100;
+    z-index: 1000;
     height: 100px;
     -webkit-transition: all .5s ease 0s;
     -moz-transition: all .5s ease 0s;
@@ -372,6 +373,7 @@ header
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    z-index: 999;
 }
 
 .header-area .main-nav .logo h4 {
@@ -385,6 +387,7 @@ header
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    z-index: 999;
 }
 
 .logo h4 span {
@@ -415,6 +418,7 @@ header
 .header-area .main-nav .nav li {
     padding-left: 20px;
     padding-right: 20px;
+    z-index: 999;
 }
 
 .header-area .main-nav .nav li:last-child {
@@ -427,6 +431,7 @@ header
     color: #fff !important;
     padding: 0px 20px;
     font-weight: 400;
+    z-index: 999;
 }
 
 .header-area .main-nav .nav li:last-child a:hover,
@@ -448,6 +453,7 @@ header
     line-height: 40px;
     border: transparent;
     letter-spacing: 1px;
+    z-index: 999;
 }
 
 .header-area .main-nav .nav li a {
@@ -641,6 +647,7 @@ header
     -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
     transform: translateY(6px) translateX(1px) rotate(45deg);
     background-color: #1e1e1e;
+    -o-transform: translateY(6px) translateX(1px) rotate(45deg);
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
@@ -657,6 +664,7 @@ header
 
 .background-header .main-nav .menu-trigger.active span:after {
     background-color: #1e1e1e;
+    z-index: 999;
 }
 
 .header-area.header-sticky {
