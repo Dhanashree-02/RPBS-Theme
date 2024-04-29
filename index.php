@@ -48,7 +48,7 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
-                    <a href="index.html" class="logo">
+                    <a href="index.php" class="logo">
                         <h4>RP<span>BS</span></h4>
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -464,7 +464,7 @@
             <div class="card2 shadow col-lg-6 item wow fadeInLeft m-2" data-wow-duration="1s">                
                 <div class="item wow ">
                     <div class="hidden-content">
-                        <h5>Healthcare IT Infrastructure: </h5>
+                        <h5>Healthcare IT Infrastructure </h5>
                         <p class="small">RPBS provides comprehensive IT infrastructure solutions tailored to the needs of healthcare organizations. From network design and implementation to cloud services and cybersecurity, we ensure that our clients' IT systems are robust, secure, and scalable.</p>
                     </div>
                 </div>
@@ -473,7 +473,7 @@
             <div class="card2 shadow col-lg-6 item wow fadeInRight m-2" data-wow-duration="1s">                
                 <div class="item wow ">
                     <div class="hidden-content">
-                        <h5>Electronic Health Records(EHR) Systems:</h5>
+                        <h5>Electronic Health Records Systems</h5>
                         <p class="small"> Our EHR solutions streamline clinical workflows, enhance data accessibility, and improve patient care coordination. We offer customized EHR implementations, training, and support to help healthcare providers maximize the benefits of digital health records.  </p>
                     </div>
                 </div>
@@ -482,7 +482,7 @@
             <div class="card2 shadow col-lg-6 item wow fadeInLeft m-2" data-wow-duration="1s">                
                 <div class="item wow ">
                     <div class="hidden-content">
-                        <h5>Telemedicine Platforms:</h5>
+                        <h5>Telemedicine Platforms</h5>
                         <p class="small">In response to the growing demand for telehealth services, RPBS develops and deploys telemedicine platforms that enable remote consultations, virtual visits, and remote patient monitoring. Our solutions facilitate seamless communication between healthcare providers and patients, improving access to care and patient outcomes. </p>
                     </div>
                 </div>
