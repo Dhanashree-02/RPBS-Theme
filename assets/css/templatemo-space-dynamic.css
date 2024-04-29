@@ -2042,7 +2042,6 @@ h3 {
         top: -16px;
         right: -16px;
         background: #fe3f40;
-        ;
         height: 32px;
         width: 32px;
         border-radius: 32px;
@@ -2052,10 +2051,6 @@ h3 {
     }
     &:hover:before {
         transform: scale(2.15);
-        -webkit-transform: ;
-        -moz-transform: ;
-        -ms-transform: ;
-        -o-transform: ;
     }
 }
 
@@ -2067,6 +2062,7 @@ h3 {
 
 .card3 {
     display: block;
+    font-family: "Poppins", "sans-serif";
     top: 0px;
     position: relative;
     max-width: 400px;

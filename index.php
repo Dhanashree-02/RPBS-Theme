@@ -506,8 +506,8 @@
         <div class="row">
             <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.25s">
                 <div class="section-heading">
-                    <h2>Feel Free To Contact </h2>
-                    <h3>Let’s Create Progress Together</h3>
+                    <h3>Feel Free To Contact </h3>
+                    <h3>Let’s Create Progress Together</h3> <br>
                     <h5 style="color: white;"> Address : 401/402,4th Floor,Sai Villa Commercial Appartment,Sr No 166,Malwadi road, Opps. to Sahyadri Hospital, Hadapsar,Pune-411028</h5>
 
                     <div class="phone-info">
@@ -567,7 +567,7 @@
                     </script>
                     RP Business Solutions LLP. All Rights Reserved.</p>
             </div>
-            <div align="right">
+            <div align="center">
                 <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
                 <a href="https://twitter.com/" class="fa fa-twitter"></a>
                 <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
