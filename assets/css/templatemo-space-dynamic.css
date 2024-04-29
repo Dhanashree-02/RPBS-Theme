@@ -1394,12 +1394,12 @@ contact
 }
 
 .phone-info {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .phone-info h4 {
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 800;
     color: #fff;
 }
 
@@ -1419,7 +1419,7 @@ contact
 
 .phone-info h4 span a {
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 400;
 }
 
@@ -1657,7 +1657,7 @@ responsive
     }
     .phone-info h4 span {
         display: block;
-        margin-top: 15px;
+        margin-top: 5px;
     }
     .phone-info h4 span i {
         margin-left: 0px;
@@ -1673,7 +1673,7 @@ h3 {
 /*SOCIAL Media */
 
 .fa {
-    padding: 10px;
+    padding: 5px;
     text-align: center;
     margin: 5px 2px;
     font-size: 30px;
