@@ -62,7 +62,7 @@
                         <li class="scroll-to-section"><a href="#us-health">Us health care</a></li>
 
                         <li class="scroll-to-section">
-                            <a href="#login.php" onclick="showLoginForm()">Login</a>
+                            <a href="login.php">Login</a>
                         </li>
                                      
                         <li class="scroll-to-section">
@@ -111,20 +111,6 @@
 </div>
 <!-- HOME END -->
 
-<!-- LOGIN -->
-
-<div id="loginForm" style="display: none;">
-  <h2>Login</h2>
-  <form action="login_process.php" method="post">
-    <label for="username">Username:</label>
-    <input type="text" id="username" name="username" required><br><br>
-    <label for="password">Password:</label>
-    <input type="password" id="password" name="password" required><br><br>
-    <input type="submit" value="Login">
-  </form>
-</div>
-
-<!-- LOGIN END -->
 
 <!-- SOLUTIONS -->
 <div id="solutions" class="about-us section">
@@ -631,20 +617,6 @@
 </script>
 
 
-<!-- LOGIN  -->
-<script>
-  // Function to toggle the visibility of the login form
-  function toggleLoginForm() {
-    var loginForm = document.getElementById("loginForm");
-    loginForm.style.display = (loginForm.style.display === "none") ? "block" : "none";
-  }
-
-  // Add click event listener to the login button
-  document.getElementById("loginButton").addEventListener("click", function(event){
-    event.preventDefault(); // Prevent the default action of anchor tag
-    toggleLoginForm(); // Toggle the visibility of the login form
-  });
-</script>
 
 </body>
 
