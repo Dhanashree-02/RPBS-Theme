@@ -60,6 +60,7 @@
                         <li class="scroll-to-section"><a href="#about">About Us</a></li>
                         <li class="scroll-to-section"><a href="#career">Career</a></li>
                         <li class="scroll-to-section"><a href="#us-health">Us health care</a></li>
+
                         <li class="scroll-to-section">
                             <div class="main-red-button"><a href="#contact">Contact Now</a></div>
                         </li>
@@ -74,6 +75,8 @@
     </div>
 </header>
 <!-- ***** Header Area End ***** -->
+
+
 
 <!-- HOME -->
 <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
@@ -148,6 +151,7 @@
     </div>
 </div>
 <!-- SOLUTIONS END -->
+
 
 <!-- SERVICES -->
 
@@ -607,6 +611,7 @@
         });
     });
 </script>
+
 
 </body>
 
