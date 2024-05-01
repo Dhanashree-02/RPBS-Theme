@@ -89,7 +89,7 @@
             <div class="col-lg-12">
                 <div class="row">
                     <div class="col-lg-6 align-self-center">
-                        <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+                    <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
                             <h1>Welcome to RP BUSINESS SOLUTIONS LLP.</h1>
 
                             <h2> Personalized <em> Care </em> &amp; <span> transformative </span> impact </h2>
