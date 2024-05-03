@@ -228,7 +228,7 @@
 
           <div class="card3 shadow col-lg-3 col-sm-3 item wow fadeInRight m-2" data-wow-duration="1s">
                 <div>
-                <img src="images/DA.jpg" class="card-img-top" alt="">
+                <img src="images/mobile-app.jpg" class="card-img-top" alt="">
                 </div>
                 <div class="item wow ">
                     <div class="hidden-content">
