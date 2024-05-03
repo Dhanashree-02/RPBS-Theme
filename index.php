@@ -519,7 +519,9 @@
                     <h5 style="color: white;"> Address : 401/402,4th Floor,Sai Villa Commercial Appartment,Sr No 166,Malwadi road, Opps. to Sahyadri Hospital, Hadapsar,Pune-411028</h5>
 
                     <div class="phone-info">
-                        <h4>For any enquiry, Call Us: <span><i class="fa fa-phone"></i> <a href="#">9284888739</a></span></h4>
+                        <h4>For any enquiry, Call Us: <span>
+                            <i class="fa fa-phone"></i> 
+                            <a href="#">9284888739</a></span></h4>
                     </div>
                 </div>
             </div>
