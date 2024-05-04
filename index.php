@@ -62,7 +62,7 @@
                         <li class="scroll-to-section"><a href="#us-health">Us health care</a></li>
 
                         <li class="scroll-to-section">
-                            <a href="login.php">Login</a>
+                            <a href="login.php">Admin Login</a>
                         </li>
                                      
                         <li class="scroll-to-section">

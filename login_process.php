@@ -37,7 +37,7 @@
             color:black;
         }
 
-        h2 {
+        h2, h1 {
             color: white;
         }
     </style>
