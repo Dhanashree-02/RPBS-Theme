@@ -1,50 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <!-- LOGO -->
     <link rel="icon" type="image/x-icon" href="images/RPBS.png">
     <!-- LOGO END -->
+
     <title>Admin Login | RP Business Solutions LLP. Pune | Digital | IT Solution</title>
 
     <style>
-        body {
-            background-image: url('images/Adminbackround.jpg');
-            background-size: cover; 
-            background-repeat: no-repeat;             
+        
+        .logout button {
+            position: absolute;
+            top: 30px;
+            right: 280px;
+            background-color: #4CAF50; /* Green background */
+           
+            padding: 10px 20px; /* Padding */
+            border: none; /* No border */
+            border-radius: 10px; /* Rounded corners */
+            cursor: pointer; /* Cursor style */
+            transition: background-color 0.3s; /* Smooth transition for background color */
         }
+
+        .logout button:hover {
+            background-color: #45a049; /* Darker green background on hover */
+        }
+
+         a {
+          text-decoration: none;
+          color: white;
+          font-size: 20px;
+      }
 
         .center {
             margin: 0 auto; /* This centers the div horizontally */
-            width: 60%; /* Adjust width as needed */
-            padding: 5px; /* Reduce padding */
-            text-align: center; /* Center align text */
+            width: 60%;
+            padding: 5px; 
+            text-align: center; 
         }
 
         table {
             width: 100%; /* Make the table width 100% of its container */
             border-collapse: collapse; /* Collapse table borders */
-            color: white; /* Set font color to white */          
+
         }
 
         th, td {
-            border: 2px double #fff; /* Change border style to double */
+            border: 2px double ; /* Change border style to double */
             text-align: left; /* Align text to the left */
             padding: 8px; /* Add padding to cells */
         }
 
         th {
             background-color: #f2f2f2; /* Background color for header cells */
-            color:black;
+            text-align: center;
         }
 
-        h2, h1 {
-            color: white;
-        }
     </style>
 </head>
 <body>
 
 <?php
+
+
 // Database connection parameters
 $servername = "localhost";
 $username = "root";
@@ -104,6 +123,7 @@ if ($result->num_rows > 0) {
         }
         echo "</table>";
         echo "</div>";
+       
     } else {
         echo "<div class='center'>";
         echo "No entries found in the contact form.";
@@ -118,6 +138,11 @@ if ($result->num_rows > 0) {
 
 $conn->close();
 ?>
+
+<!-- logout -->
+<div class="logout">
+    <button><a href="logout.php">Logout</a></button>
+</div>
 
 
 </body>

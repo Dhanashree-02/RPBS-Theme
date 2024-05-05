@@ -523,6 +523,7 @@
                             <i class="fa fa-phone"></i> 
                             <a href="#">9284888739</a></span></h4>
                     </div>
+
                 </div>
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.25s">
