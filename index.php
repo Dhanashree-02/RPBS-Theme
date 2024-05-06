@@ -521,9 +521,11 @@
                     <div class="phone-info">
                         <h4>For any enquiry, Call Us: <span>
                             <i class="fa fa-phone"></i> 
-                            <a href="#">9284888739<br>
-                                HR Email : hr@rpbsolution.com / aditi.d@rpbsolution.com </a></span></h4>
-
+                            <a href="#">9284888739 <br></a>
+                                Email Us : 
+                                <i class="fa fa-envelope"></i>
+                                <a> hr@rpbsolution.com / aditi.d@rpbsolution.com 
+                                </a></span></h4>
                     </div>
 
                 </div>
