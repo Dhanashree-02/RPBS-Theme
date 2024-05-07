@@ -9,6 +9,9 @@
     <title>Admin Login | RP Business Solutions LLP. Pune | Digital | IT Solution</title>
 
     <style>
+        .body{
+         font-family: 'Poppins', sans-serif;
+     }
         
         .logout button {
             position: absolute;
