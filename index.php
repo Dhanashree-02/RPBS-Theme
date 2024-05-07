@@ -49,6 +49,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
+                         <!-- <img src="images/LOGO.png" style="height:50px; width: 60px; z-index: 999;" > -->
                         <h4>RP<span>BS</span></h4>
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -517,7 +518,7 @@
                 <div class="section-heading">
                     <h3>Feel Free To Contact </h3>
                     <h3>Let’s Create Progress Together</h3> <br>
-                    <h5 style="color: white;"> Address : 401/402,4th Floor,Sai Villa Commercial Appartment,Sr No 166,Malwadi road, Opps. to Sahyadri Hospital, Hadapsar,Pune-411028</h5>
+                    <h5 style="color: white;"> <b>Address :</b> 401/402,4th Floor,Sai Villa Commercial Appartment,Sr No 166,Malwadi road, Opps. to Sahyadri Hospital, Hadapsar,Pune-411028</h5>
 
                     <div class="phone-info">
                         <h4>For any enquiry, Call Us: <span>
