@@ -49,8 +49,8 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
-                         <!-- <img src="images/LOGO.png" style="height:50px; width: 60px; z-index: 999;" > -->
-                        <h4>RP<span>BS</span></h4>
+                         <img src="images/RPBS.png" style="height:50px; width: 60px; z-index: 999;" >
+                        <!-- <h4>RP<span>BS</span></h4> -->
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
@@ -521,16 +521,18 @@
                     <h5 style="color: white;"> <b>Address :</b> 401/402,4th Floor,Sai Villa Commercial Appartment,Sr No 166,Malwadi road, Opps. to Sahyadri Hospital, Hadapsar,Pune-411028</h5>
 
                     <div class="phone-info">
-                        <h4>For any enquiry, Call Us: <span>
+                        <h4>Contact : <span>
                             <i class="fa fa-phone"></i> 
-                            <a href="#">9284888739 <br></a>
-                                Email Us : 
-                                <i class="fa fa-envelope"></i>
-                                <a> hr@rpbsolution.com / aditi.d@rpbsolution.com 
-                                </a></span></h4>
-                    </div>
+                            <a href="#">9284888739</a> </span></h4> </div>
 
-                </div>
+                    <div class="phone-info"> 
+                        <h4>Email Us : <span>
+                            <i class="fa fa-envelope"></i>
+                            <a href="#"> hr@rpbsolution.com 
+                            </a></span></h4></div>
+                   
+
+                 </div>
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.25s">
                 <form id="contact" action="submit_form.php" method="post">
@@ -586,9 +588,10 @@
             </div>
             <div align="center">
                 <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
-                <a href="https://twitter.com/" class="fa fa-twitter"></a>
                 <a href="https://www.instagram.com/" class="fa fa-instagram"></a>
-                <a href="https://www.google.com/" class="fa fa-google"> </a>
+                <a href="https://www.linkedin.com/" class="fa fa-linkedin" style="background: #0077B5; color: white;"></a>
+
+              
             </div>
 
         </div>

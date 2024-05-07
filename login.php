@@ -12,7 +12,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-           background-image: url('images/1.jpg');
+/*           background-image: url('images/1.jpg');*/
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -53,6 +53,24 @@
     </style>
 </head>
 <body>
+
+    <header class="header-area header-sticky wow slideInDown shadow" data-wow-duration="0.75s" data-wow-delay="0s" style="z-index: 999;">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.php" class="logo">
+                         <img src="images/RPBS.png" style="height:50px; width: 60px; margin-top: 10px;" > Back to Home 
+                     
+                    </a>
+                 
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- ***** Header Area End ***** -->
 
 <div class="container">
     <div class="login-container">
