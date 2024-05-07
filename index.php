@@ -49,7 +49,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
-                         <img src="images/RPBS.png" style="height:50px; width: 60px; z-index: 999;" >
+                         <img src="images/RPBS.png" style="height:50px; width: 60px;" >
                         <!-- <h4>RP<span>BS</span></h4> -->
                     </a>
                     <!-- ***** Logo End ***** -->
