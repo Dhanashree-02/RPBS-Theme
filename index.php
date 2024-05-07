@@ -201,7 +201,7 @@
                 <div class="item wow ">
                     <div class="hidden-content">
                         <h5>Data Analytics</h5>
-                        <p>RPBS's data analytics platforms facilitate informed decision-making and strategic growth initiatives by extracting valuable insights from data. With advanced capabilities like data visualization and predictive modeling, they optimize operations and confer a competitive edge in the industry.</p>
+                        <p>RPBS's data analytics platforms facilitate informed decision-making and strategic growth initiatives by extracting valuable insights from data. With advanced capabilities like data visualization and predictive modeling, they optimize operations and confer a competitive edge in industry.</p>
                     </div>
                 </div>
             </div>
@@ -387,7 +387,8 @@
                                         </div>
                                     </div>
                                     <div class="ag-offer_hidden-item">
-                                        <p class="ag-offer_text">At RPBS, excellence is our culture. Push boundaries, challenge norms, and embrace continuous improvement.</p>
+                                        <p class="ag-offer_text">At RPBS, we value work-life balance. Enjoy flexibility and prioritize your well-being
+                                        </p>
                                     </div>
                                 </li>
                                 <li class="ag-offer_item">
@@ -401,7 +402,7 @@
                                     </div>
                                     <div class="ag-offer_hidden-item">
                                         <p class="ag-offer_text">
-                                            At RPBS, we value work-life balance. Enjoy flexibility and prioritize your well-being
+                                        At RPBS, excellence is our culture. Push boundaries, challenge norms, and embrace continuous improvement.
                                         </p>
                                     </div>
                                 </li>
