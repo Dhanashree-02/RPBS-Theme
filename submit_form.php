@@ -1,12 +1,3 @@
-<html lang="en">
-<head>
-    <!-- LOGO -->
-    <link rel="icon" type="image/x-icon" href="images/RPBS.png">
-    <!-- LOGO END -->
-    <title>Admin Login | RP Business Solutions LLP. Pune | Digital | IT Solution</title>
-</head>
-<body>
-
 <?php
 // Database connection parameters
 $servername = "localhost";
@@ -28,8 +19,11 @@ $surname = $_POST['surname'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
+// Get current date and time
+$currentDateTime = date('Y-m-d H:i:s');
+
 // Insert data into database
-$sql = "INSERT INTO ContactForm (Name, Surname, Email, Message) VALUES ('$name', '$surname', '$email', '$message')";
+$sql = "INSERT INTO ContactForm (Name, Surname, Email, Message, SubmitDateTime) VALUES ('$name', '$surname', '$email', '$message', '$currentDateTime')";
 
 if ($conn->query($sql) === TRUE) {
     echo "<h1>New record created successfully</h1>";
@@ -40,6 +34,3 @@ if ($conn->query($sql) === TRUE) {
 // Close connection
 $conn->close();
 ?>
-
-</body>
-</html>
