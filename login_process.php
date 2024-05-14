@@ -7,62 +7,15 @@
     <!-- LOGO END -->
 
     <title>Admin Login | RP Business Solutions LLP. Pune | Digital | IT Solution</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-    <style>
-        .body{
-         font-family: 'Poppins', sans-serif;
-     }
-        
-        .logout button {
-            position: absolute;
-            top: 30px;
-            right: 280px;
-            background-color: #4CAF50; /* Green background */
-           
-            padding: 10px 20px; /* Padding */
-            border: none; /* No border */
-            border-radius: 10px; /* Rounded corners */
-            cursor: pointer; /* Cursor style */
-            transition: background-color 0.3s; /* Smooth transition for background color */
-        }
+     <link rel="stylesheet" href="assets/css/login_process.css">
 
-        .logout button:hover {
-            background-color: #45a049; /* Darker green background on hover */
-        }
-
-         a {
-          text-decoration: none;
-          color: white;
-          font-size: 20px;
-      }
-
-        .center {
-            margin: 0 auto; /* This centers the div horizontally */
-            width: 60%;
-            padding: 5px; 
-            text-align: center; 
-        }
-
-        table {
-            width: 100%; /* Make the table width 100% of its container */
-            border-collapse: collapse; /* Collapse table borders */
-
-        }
-
-        th, td {
-            border: 2px double ; /* Change border style to double */
-            text-align: left; /* Align text to the left */
-            padding: 8px; /* Add padding to cells */
-        }
-
-        th {
-            background-color: #f2f2f2; /* Background color for header cells */
-            text-align: center;
-        }
-
-    </style>
+    
 </head>
 <body>
+    <div class="center">
     
 <?php
 
@@ -142,9 +95,12 @@ if ($result->num_rows > 0) {
 $conn->close();
 ?>
 
+</div>
+
 <!-- logout -->
 <div class="logout">
-    <button><a href="logout.php">Logout</a></button>
+    <button>
+        <a href="logout.php">Logout</a></button>
 </div>
 
 

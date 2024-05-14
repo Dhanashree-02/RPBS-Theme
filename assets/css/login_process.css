@@ -1,0 +1,49 @@
+body {
+    font-family: 'times new roman';
+}
+
+.logout button {
+    position: absolute;
+    top: 30px;
+    right:350px;
+    padding: 10px 20px;
+    border-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.logout button:hover {
+    background-color: #45a049;
+}
+
+.center {
+    margin: 0 auto;
+    width: 60%;
+    padding: 5px;
+    text-align: center;
+}
+
+/* Styles for table elements */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    border: 1px solid #000;
+    text-align: center;
+    padding: 8px;
+    background-color: #f2f2f2;
+
+}
+
+td {
+    border: 1px solid #000;
+    text-align:center;
+    padding: 8px;
+}
+
+
