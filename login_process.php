@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
 
+    <meta http-equiv="refresh" content="60; url=login.php">
+
+
     <!-- LOGO -->
     <link rel="icon" type="image/x-icon" href="images/RPBS.png">
     <!-- LOGO END -->
@@ -18,7 +21,6 @@
     <div class="center">
     
 <?php
-
 
 // Database connection parameters
 $servername = "localhost";

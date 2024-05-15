@@ -31,6 +31,31 @@
 </header>
 <!-- ***** Header Area End ***** -->
 
+
+<?php
+
+session_start();
+// include("contact.php");
+if (isset($_POST['submit'])){
+
+$admin_name = $_POST["admin_name"];
+$password = $_POST["password"];
+
+$sql = "SELECT * FROM admin WHERE admin_name='$username' AND password='$password'";
+$result = $conn->query($sql);
+
+if($result-> num_rows > 0){
+$_SESSION['admin_name']= $admin_name;
+header("location:login_process.php");
+die;
+}
+
+}
+
+
+?>
+
+
 <div class="container">
     <div class="login-container">
         <h2>Admin Login</h2>
