@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!-- to log out after 1 min -->
-    <meta http-equiv="refresh" content="60; url=login.php">
+    <meta http-equiv="refresh" content="60; url=admin.php">
 
 
     <!-- LOGO -->
