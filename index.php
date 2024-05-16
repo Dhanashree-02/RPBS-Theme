@@ -62,9 +62,9 @@
                         <li class="scroll-to-section"><a href="#career">Career</a></li>
                         <li class="scroll-to-section"><a href="#us-health">Us health care</a></li>
 
-                        <li class="scroll-to-section">
+                       <!--  <li class="scroll-to-section">
                             <a href="login.php">Admin Login</a>
-                        </li>
+                        </li> -->
                                      
                         <li class="scroll-to-section">
                             <div class="main-red-button"><a href="#contact">Contact Now</a></div>
