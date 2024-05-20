@@ -3,9 +3,8 @@ body {
 }
 
 .logout button {
-    position: absolute;
-    top: 30px;
-    right:350px;
+    position: bottom;
+   
     padding: 10px 20px;
     border-color: black;
     border-radius: 10px;

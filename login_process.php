@@ -18,7 +18,21 @@
     
 </head>
 <body>
-    <div class="center">
+    <header class="header-area header-sticky shadow" data-wow-duration="0.75s" data-wow-delay="0s" style="z-index: 999;">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.php" class="logo">
+                         <img src="images/RPBS.png" style="height:50px; width: 60px; margin-top: 10px;" > Back to Home 
+                    </a>
+                     
+            </div>
+        </div>
+    </div>
+</header>
+<!-- ***** Header Area End ***** -->
     
 <?php
 
@@ -99,12 +113,14 @@ $conn->close();
 
 </div>
 
-<!-- logout -->
-<div class="logout">
-    <button>
-        <a href="logout.php">Logout</a></button>
-</div>
 
+<!-- logout -->
+            <div class="logout">
+                <button>
+                 <a href="logout.php">Logout</a></button>
+            </div>
+                 </nav>
+                
 
 </body>
 </html>
