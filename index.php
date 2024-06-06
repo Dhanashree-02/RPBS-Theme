@@ -38,7 +38,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.php" class="logo">
-                         <img src="images/RPBS.png" style="height:50px; width: 60px;" >
+                         <img src="images/RPBS_logo.png" style="height:50px; width: 60px;" >
                         <!-- <h4>RP<span>BS</span></h4> -->
                     </a>
                     <!-- ***** Logo End ***** -->
@@ -91,7 +91,7 @@
 
                     <div class="col-lg-6">
                         <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                            <img src="images/home.jpg" alt="team meeting">
+                            <img src="images/RPBS_home.jpg" alt="team meeting">
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                    <img src="images/Solutions.jpg" alt="person graphic">
+                    <img src="images/RPBS_Solutions.jpg" alt="person graphic">
                 </div>
             </div>
             <div class="col-lg-8 align-self-center">
@@ -155,7 +155,7 @@
         <div class="row">
             <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
                 <div class="left-image">
-                    <img src="images/Services.jpg" alt="">
+                    <img src="images/RPBS_Services.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
@@ -174,7 +174,7 @@
             <!-- CARD  -->
             <div class="card3 shadow col-lg-4 col-sm-3 item wow fadeInRight m-2" data-wow-duration="1s">
                 <div>
-                <img src="images/Web-Devlopment.jpg" class="card-img-top " alt="">
+                <img src="images/RPBS_WebDevlopment.jpg" class="card-img-top " alt="">
                  </div>
                 <div class="card-body">
                     <h5 class="card-title">Website Development</h5>
@@ -186,7 +186,7 @@
 
             <div class="card3 shadow col-lg-3 col-sm-3 item wow fadeInLeft m-2" data-wow-duration="1s">
                 <div>
-                <img src="images/DA.jpg" class="card-img-top" alt="">
+                <img src="images/RPBS_DA.jpg" class="card-img-top" alt="">
                 </div>
                 <div class="item wow ">
                     <div class="hidden-content">
@@ -198,7 +198,7 @@
 
             <div class="card3 shadow col-lg-4 col-sm-3 item wow fadeInRight m-2" data-wow-duration="1s">
                  <div>
-                <img src="images/Digital-marketing.jpg" class="card-img-top " alt="">
+                <img src="images/RPBS_DigitalMarketing.jpg" class="card-img-top " alt="">
             </div>
                 <div class="card-body">
                     <h5 class="card-title">Digital Marketing</h5>
@@ -207,7 +207,7 @@
             </div>
 
             <div class="card3 shadow col-lg-4 col-sm-3 item wow fadeInLeft m-2" data-wow-duration="1s">
-                <div> <img src="images/AWS.jpg" class="card-img-top" alt=""></div>
+                <div> <img src="images/RPBS_AWS.jpg" class="card-img-top" alt=""></div>
                 <div class="item wow ">
                     <div class="hidden-content">
                         <h5>Amazon Web Services (AWS)</h5>
@@ -218,7 +218,7 @@
 
           <div class="card3 shadow col-lg-3 col-sm-3 item wow fadeInRight m-2" data-wow-duration="1s">
                 <div>
-                <img src="images/Mobile-App.jpg" class="card-img-top" alt="">
+                <img src="images/RPBS_MobileApp.jpg" class="card-img-top" alt="">
                 </div>
                 <div class="item wow ">
                     <div class="hidden-content">
@@ -229,7 +229,7 @@
             </div>
 
             <div class="card3 shadow col-lg-4 col-sm-3 item wow fadeInLeft m-2" data-wow-duration="1s">
-               <div>  <img src="images/cloudService.jpg" class="card-img-top " alt=""></div>
+               <div>  <img src="images/RPBS_cloudService.jpg" class="card-img-top " alt=""></div>
                 <div class="card-body">
                     <h5 class="card-title">Cloud Services Integration</h5>
                     <p class="card-text">RPBS excels in integrating cloud solutions like AWS, Microsoft Azure, and Google Cloud into existing infrastructure. We specialize in tailored integration, data migration, and optimizing architecture for scalability and cost-effectiveness. With RPBS, businesses harness cloud computing for innovation and growth.</p>
@@ -250,7 +250,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                    <img src="images/About.jpg" alt="person graphic">
+                    <img src="images/RPBS_About.jpg" alt="person graphic">
                 </div>
             </div>
             <div class="col-lg-8 align-self-center">
@@ -334,7 +334,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                            <img src="images/career.jpg" alt="team meeting">
+                            <img src="images/RPBS_career.jpg" alt="team meeting">
                         </div>
                     </div>
 
@@ -449,7 +449,7 @@
         <div class="row">
             <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
                 <div class="left-image">
-                    <img src="images/health.jpg" alt="">
+                    <img src="images/RPBS_health.jpg" alt="">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
