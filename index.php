@@ -28,18 +28,7 @@
 
 </head>
 
-<!-- ***** Preloader Start ***** -->
-<div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-        <span class="dot"></span>
-        <div class="dots">
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </div>
-</div>
-<!-- ***** Preloader End ***** -->
+
 
 <!-- ***** Header Area Start ***** -->
 <header class="header-area header-sticky wow slideInDown shadow" data-wow-duration="0.75s" data-wow-delay="0s" style="z-index: 999;">
@@ -63,7 +52,7 @@
                         <li class="scroll-to-section"><a href="#us-health">Us health care</a></li>
 
                        <!--  <li class="scroll-to-section">
-                            <a href="login.php">Admin Login</a>
+                            <a href="admin.php">Admin Login</a>
                         </li> -->
                                      
                         <li class="scroll-to-section">

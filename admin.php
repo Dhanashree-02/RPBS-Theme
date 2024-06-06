@@ -15,7 +15,7 @@
     
 </head>
 <body>
-   <header class="header-area header-sticky shadow" data-wow-duration="0.75s" data-wow-delay="0s" style="z-index: 999;">
+   <header class="header-area header-sticky shadow p-2 mb-2" data-wow-duration="0.75s" data-wow-delay="0s" style="z-index: 999;">
     <div class="container">
         <div class="row">
             <div class="col-12">

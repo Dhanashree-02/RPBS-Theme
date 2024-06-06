@@ -1,26 +1,27 @@
 body {
-    font-family: 'times new roman';
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.logout button {
-    position: bottom;
-   
+.logout a {
     padding: 10px 20px;
-    border-color: black;
+    border: 1px solid black;
     border-radius: 10px;
     cursor: pointer;
     transition: background-color 0.3s;
     text-decoration: none;
     font-size: 20px;
+    background-color: #f2f2f2;
+    color: black;
 }
 
-.logout button:hover {
+.logout a:hover {
     background-color: #45a049;
+    color: white;
 }
 
 .center {
-    margin: 0 auto;
-    width: 60%;
+    margin: 20px auto;
+    width: 70%;
     padding: 5px;
     text-align: center;
 }
@@ -29,20 +30,40 @@ body {
 .table {
     border-collapse: collapse;
     width: 100%;
+    margin: 0 auto;
 }
 
-th{
+th {
     border: 1px solid #000;
     text-align: center;
     padding: 8px;
     background-color: #f2f2f2;
-
 }
 
 td {
     border: 1px solid #000;
-    text-align:center;
+    text-align: center;
     padding: 8px;
 }
 
+.header-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+nav.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+nav.main-nav .logo {
+    display: flex;
+    align-items: center;
+}
+
+nav.main-nav .logout {
+    margin-left: auto; /* Aligns the logout button to the right */
+}
